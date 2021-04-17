@@ -1,6 +1,6 @@
 ## VanillaJS 기본 프로젝트
 
-### Tabs
+## **(1)Tabs**
 
 - ### Event bubbling (JS)
 
@@ -35,3 +35,13 @@ about.addEventListener('click', (e) => {
   }
 });
 ```
+
+## **(2)Slider**
+
+## **(3)Accordion**
+
+## **(4)Sidebar**
+
+## **(5)Modal**
+
+## **(6)Scroll**
