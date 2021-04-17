@@ -426,8 +426,8 @@ footer p {
     border-radius: var(--radius);
     color: var(--clr-white);
     animation: bounce 2s ease-in-out infinite;
-    /* visibility: hidden;
-  z-index: -100; */
+    visibility: hidden;
+    z-index: -100;
 }
 
 .show-link {
